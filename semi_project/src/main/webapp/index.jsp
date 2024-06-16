@@ -20,6 +20,5 @@
 	}
 	//10초마다 실행
     setInterval(changeImage, 8000);
-
 </script>
 <%@ include file="/WEB-INF/views/common/footer.jsp"%>
