@@ -1,8 +1,9 @@
 ## Semi-Project 
 <img width="160" align=left src="https://github.com/Lunia1109/semiProject/assets/164973128/73c227bd-85a8-495b-8488-f2d677a0e5ec"/><h3> 📝 산책하개</h3>
 
-간단한 쇼핑몰 기능 및 거리를 기반하여
-<br>산책을 동행할 견주를 구하는 플랫폼
+간단한 쇼핑몰 기능 및 거리를 기반하여 산책을 동행할 견주를 구하는 플랫폼입니다.
+<br>Servlet과 JSP를 활용하여 Native하게 구현한 모델에서
+<br>SpringFramework 및 MybatisFramework를 적용해나가며 Update 하였습니다.
 
 구현 URL : [산책하개](https://14.36.141.71:10009/GDJ79_WalkingDog_semi/)
 <br>
