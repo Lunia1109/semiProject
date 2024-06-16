@@ -40,7 +40,18 @@
 
 ## 💻 API 설계 구조
 
-## 📷 서비스 스크린샷
+## 📷 담당한 서비스 스크린샷
+① Ajax 통신 방식(빨간색 테두리)을 기반으로 만든 Admin Page <br>
+![image](https://github.com/Lunia1109/semiProject/assets/164973128/fac490c1-e0d1-4a62-aab5-f25fba1e1b7b) <br>
+ - Ajax 통신을 사용한 이유 ? 사용자로 하여금 더욱 Dynamic한 UI를 제공하기 위함<br>
+② Social Login API를 적용한 login창 구현 <br>
+![image](https://github.com/Lunia1109/semiProject/assets/164973128/2535b3d7-c279-4e0e-90f7-2bfbc5671e46) <br>
+ - API 사용 권한 승인이 나지 않아 Session에 저장하여 로그인한 것으로 간주하였음. <br>
+ - Naver SMTP를 사용하여 Email 인증 구현 <br>
+ 
+③ login 후 Mypage 구현 <br>
+![image](https://github.com/Lunia1109/semiProject/assets/164973128/6c80a67a-b3c3-4b44-aeb4-ade09b46ea55)
+
 
 ## 🔨 업데이트
 ① Mybatis 적용을 위하여 configuration 및 mapper.xml 등록 <br>
