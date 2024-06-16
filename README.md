@@ -41,3 +41,8 @@
 ## 💻 API 설계 구조
 
 ## 📷 서비스 스크린샷
+
+## UPDATE
+① Mybatis 적용을 위하여 configuration 및 mapper.xml 등록 <br>
+![image](https://github.com/Lunia1109/semiProject/assets/164973128/abf14de7-c009-448d-a876-12d5a509e6a1)
+
