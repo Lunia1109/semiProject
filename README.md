@@ -41,16 +41,16 @@
 ## 💻 API 설계 구조
 
 ## 📷 담당한 서비스 스크린샷
-Ajax 통신 방식(빨간색 테두리)을 기반으로 만든 Admin Page <br>
+<b> Ajax 통신 방식(빨간색 테두리)을 기반으로 만든 Admin Page </b> <br>
 ![image](https://github.com/Lunia1109/semiProject/assets/164973128/fac490c1-e0d1-4a62-aab5-f25fba1e1b7b) <br>
- - Ajax 통신을 사용한 이유 ? 사용자로 하여금 더욱 Dynamic한 UI를 제공하기 위함<br>
+ - Ajax 통신을 사용한 이유 ? 사용자로 하여금 더욱 Dynamic한 UI를 제공하기 위함<br><br>
  
-Social Login API를 적용한 login창 구현 <br>
+<b> Social Login API를 적용한 login창 구현 </b> <br>
 ![image](https://github.com/Lunia1109/semiProject/assets/164973128/2535b3d7-c279-4e0e-90f7-2bfbc5671e46) <br>
  - API 사용 권한 승인이 나지 않아 Session에 저장하여 로그인한 것으로 간주하였음. <br>
- - Naver SMTP를 사용하여 Email 인증 구현 <br>
+ - Naver SMTP를 사용하여 Email 인증 구현 <br><br>
  
-login 후 Mypage 구현 <br>
+<b> login 후 Mypage 구현 </b> <br>
 ![image](https://github.com/Lunia1109/semiProject/assets/164973128/6c80a67a-b3c3-4b44-aeb4-ade09b46ea55) <br>
  - 원하는 상품을 담는 찜 기능 구현 <br>
  - 구매 페이지로 넘어 갈 수 있는 결제 직전의 상품들을 담는 장바구니 기능 구현<br>
